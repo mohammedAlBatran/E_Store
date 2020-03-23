@@ -1,0 +1,3 @@
+{
+    "dbconnection": "mongod://localhost/E-StoreProduction"
+}
